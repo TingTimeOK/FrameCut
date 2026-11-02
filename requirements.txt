@@ -1,0 +1,7 @@
+PySide6>=6.8,<7
+numpy>=2.0,<3
+opencv-python>=4.10,<6
+Pillow>=11,<13
+sounddevice>=0.5,<1
+faster-whisper>=1.1,<2
+pyinstaller>=6.10,<7
